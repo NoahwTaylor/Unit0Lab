@@ -1,0 +1,14 @@
+C:\Users\Noah\source\repos\Unit0LabApp\Unit0Lab\bin\Debug\net8.0\Unit0Lab.exe
+C:\Users\Noah\source\repos\Unit0LabApp\Unit0Lab\bin\Debug\net8.0\Unit0Lab.deps.json
+C:\Users\Noah\source\repos\Unit0LabApp\Unit0Lab\bin\Debug\net8.0\Unit0Lab.runtimeconfig.json
+C:\Users\Noah\source\repos\Unit0LabApp\Unit0Lab\bin\Debug\net8.0\Unit0Lab.dll
+C:\Users\Noah\source\repos\Unit0LabApp\Unit0Lab\bin\Debug\net8.0\Unit0Lab.pdb
+C:\Users\Noah\source\repos\Unit0LabApp\Unit0Lab\obj\Debug\net8.0\Unit0Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noah\source\repos\Unit0LabApp\Unit0Lab\obj\Debug\net8.0\Unit0Lab.AssemblyInfoInputs.cache
+C:\Users\Noah\source\repos\Unit0LabApp\Unit0Lab\obj\Debug\net8.0\Unit0Lab.AssemblyInfo.cs
+C:\Users\Noah\source\repos\Unit0LabApp\Unit0Lab\obj\Debug\net8.0\Unit0Lab.csproj.CoreCompileInputs.cache
+C:\Users\Noah\source\repos\Unit0LabApp\Unit0Lab\obj\Debug\net8.0\Unit0Lab.dll
+C:\Users\Noah\source\repos\Unit0LabApp\Unit0Lab\obj\Debug\net8.0\refint\Unit0Lab.dll
+C:\Users\Noah\source\repos\Unit0LabApp\Unit0Lab\obj\Debug\net8.0\Unit0Lab.pdb
+C:\Users\Noah\source\repos\Unit0LabApp\Unit0Lab\obj\Debug\net8.0\Unit0Lab.genruntimeconfig.cache
+C:\Users\Noah\source\repos\Unit0LabApp\Unit0Lab\obj\Debug\net8.0\ref\Unit0Lab.dll
